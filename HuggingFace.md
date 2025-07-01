@@ -22,4 +22,3 @@ An AI-powered coding assistant built using [Hugging Face Chat Assistants](https:
 ## 🤝 Contribute
 
 Feel free to fork this repo and suggest improvements to the prompt or assistant logic. Collaboration welcome!
-
